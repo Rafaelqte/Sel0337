@@ -1,0 +1,14 @@
+[Unit]
+Description = Blink LED
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/python3 -u /home/sel/led2.py
+ExecStop=/usr/bin/python3 -u /home/sel/led_pisca1.py
+WorkingDirectory=/home/sel
+user=SEL
+
+[Install]
+WantedBy = multi-user.target
+
+
