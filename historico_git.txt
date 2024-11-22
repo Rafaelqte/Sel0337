@@ -1,0 +1,17 @@
+commit 41dbc8fd3a73da86e5730fb969c9309acf6cd7b5
+Author: blabla <bla>
+Date:   Fri Nov 22 17:36:33 2024 -0300
+
+    foram adicionados os arquivos da prática
+
+commit 2f023fcb227d0afdb1ca1d5c5983d642d6f395c4
+Author: Rafael Quaglia Te <96800861+Rafaelqte@users.noreply.github.com>
+Date:   Mon Nov 18 15:00:31 2024 -0300
+
+    Update README.md
+
+commit 467bc59f5f6b7cdd1ff83fea143848c0f97fc1b8
+Author: Rafael Quaglia Te <96800861+Rafaelqte@users.noreply.github.com>
+Date:   Mon Nov 18 14:58:47 2024 -0300
+
+    Initial commit
